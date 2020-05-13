@@ -1,2 +1,3 @@
-# estud-python
-Repositório dedicado ao estudo inicial de Python.
+# Python
+## Primeiros passos em Python
+Estudando Python com auxílio de vídeos e documentações.
