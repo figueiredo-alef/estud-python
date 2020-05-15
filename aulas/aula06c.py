@@ -1,0 +1,12 @@
+print('=' * 5, 'AULA_006c', '=' * 5)
+n1 = float(input('Digite um numero: '))
+n2 = float(input('Digite outro numero: '))
+s = n1 + n2
+print('A soma entre {} e {} é: {}'.format(n1, n2, s))
+print('=' * 21)
+n3 = str(input('Digite algo: '))
+print(type(n3))
+print(n3.isnumeric())
+print(n3.isalpha())
+print(n3.isdecimal())
+print(n3.isspace())
