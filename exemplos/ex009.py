@@ -1,4 +1,5 @@
 print('=' * 5, 'EX_009', '=' * 5)
+# tabuada
 num = int(input('Digite um valor: '))
 print('-' * 12)
 print('{} x {:2} = {:2}'.format(num, 1, num*1))

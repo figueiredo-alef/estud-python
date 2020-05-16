@@ -1,5 +1,6 @@
 from random import choice
 print('=' * 5, 'EX_019', '=' * 5)
+# sorteando um item na lista
 n1 = str(input('Primeiro aluno: '))
 n2 = str(input('Segundo aluno: '))
 n3 = str(input('Terceiro aluno: '))

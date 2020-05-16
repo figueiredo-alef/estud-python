@@ -1,4 +1,5 @@
 print('=' * 5, 'EX_008', '=' * 5)
+# conversor de medidas
 n1 = float(input('Digite a distância (em metros): '))
 cm = n1 * 100
 mm = n1 * 1000
