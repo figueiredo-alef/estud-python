@@ -1,5 +1,6 @@
 from datetime import date
 print('=' * 5, 'EX_032', '=' * 5)
+# ano bissexto
 ano = int(input('Que ano você quer analisar? Digite 0 para analisar o ano atual: '))
 if ano == 0:
     ano = date.today().year

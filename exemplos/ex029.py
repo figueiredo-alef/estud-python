@@ -1,4 +1,5 @@
 print('=' * 5, 'EX_029', '=' * 5)
+# radar aletrônico
 vel = float(input('Qual a velocidade do carro?\n'))
 if vel > 80:
     print('MULTADO! Você excedeu o limite de velocidade que é de 80km/h.')

@@ -1,4 +1,5 @@
 print('=' * 5, 'EX_022', '=' * 5)
+# analisador de texto
 nome = str(input('Digite seu nome completo: ')).strip()
 print('Analisando seu nome...')
 print('Seu nome em maiúsculas é {}'. format(nome.upper()))

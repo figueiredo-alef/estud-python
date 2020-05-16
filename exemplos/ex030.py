@@ -1,4 +1,5 @@
 print('=' * 5, 'EX_030', '=' * 5)
+# par ou ímpar
 numero = int(input('Me diga um númeor qualquer: '))
 result = numero % 2
 # print('O resultado foi: {}'.format(result)) # teste para verificar se é par
