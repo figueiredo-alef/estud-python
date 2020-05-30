@@ -1,3 +1,5 @@
+# fazer testes a qualquer momento
+
 print('=' * 5, 'TESTE-01', '=' * 5)
 nome = input('Qual o seu nome? ')
 idade = input('Qual sua idade? ')
